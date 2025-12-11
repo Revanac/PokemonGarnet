@@ -220,7 +220,7 @@ RockSmash,50
 Land,20
     30,PIDGEY,3,7
     20,CATERPIE,3,7
-    20,MANKEY,3,7
+    10,MEOWTH,3,7
     20,RATTATA,3,7
     10,WEEDLE,3,7
 #-------------------------------
@@ -350,14 +350,14 @@ Land,21
     10,KAKUNA,5,8
     10,METAPOD,5,8
     10,NIDORANmA,5,9
-    10,SKITTY,5,8
+    10,MEOWTH_2,5,8
 #-------------------------------
 [087] # Coastal Woods
 Land,21
     20,METAPOD,8,10
     20,RATTATA_1,10,10
     10,EKANS,8,10
-    10,MEOWTH,7,10
+    10,MEOWTH_2,7,10
     10,MEOWTH_1,7,10
     10,PIKACHU,6,10
     10,SLAKOTH,8,10

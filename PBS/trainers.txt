@@ -1,0 +1,355 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    Gender = male
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = true
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = true
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,8
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,8
+Pokemon = RATTATA,10
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,11
+    Form = 1
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[TEAMZENO_M_Evaluator,Merv]
+LoseText = I'm losing my touch, you're the second kid who's beaten me today!
+Pokemon = SPEAROW,7
+Pokemon = RATTATA,8
+Pokemon = MEOWTH,10
+#-------------------------------
+[TEAMZENO_F,Grunt]
+LoseText = What? You Brat!
+Pokemon = SPEAROW,15
+Pokemon = RATTATA,15
+    Form = 1
+Pokemon = MEOWTH,18
+    Form = 1
+#-------------------------------
+[TEAMZENO_MMG,Guard]
+LoseText = What??
+Pokemon = RATTATA,12
+    Form = 1
+Pokemon = MEOWTH,12
+    Form = 1
+#-------------------------------
+[TEAMZENO_FMG,Guard]
+LoseText = What??
+Pokemon = BUTTERFREE,14
+    Form = 1
+Pokemon = BEEDRILL,14
+    Form = 1
+#-------------------------------
+[TEAMZENO_MMG_1,Guard]
+LoseText = What??
+Pokemon = PAWNIARD,16
+    Form = 1
+Pokemon = SKARMORY,16
+    Form = 1
+#-------------------------------
+[GYMTRAINER_2_M,Aaron]
+LoseText = Woah!
+Pokemon = CLEFAIRY,8
+Pokemon = IMPIDIMP,10
+#-------------------------------
+[GYMTRAINER_2_F,Lisa]
+LoseText = Woah!
+Pokemon = FLABEBE,8
+Pokemon = TOGEPI,10
+#-------------------------------
+[LEADER_Felicity,Felicity]
+Items = HYPERPOTION,SUPERPOTION
+LoseText = Well done!
+Pokemon = CUTIEFLY,10
+    Moves = LEECHLIFE,DRAININGKISS,DAZZLINGGLEAM,LIGHTSCREEN
+    AbilityIndex = 0
+    Gender = female
+    IV = 20,20,20,20,20,20
+    Ball = HEALBALL
+Pokemon = RALTS,12
+    Moves = DAZZLINGGLEAM,DRAININGKISS,CONFUSION,HYPNOSIS
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEALBALL
+Pokemon = CLEFAIRY,14
+    Moves = PLAYROUGH,METRONOME,SWEETKISS,MINIMIZE
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = HEALBALL
+#-------------------------------
+[GYMTRAINER_M,Eric]
+LoseText = Woah!
+Pokemon = SNORUNT,14
+Pokemon = SNOVER,16
+#-------------------------------
+[GYMTRAINER_F,Erica]
+LoseText = Woah!
+Pokemon = SANDSHREW,14
+    Form = 1
+Pokemon = GLACEON,16
+#-------------------------------
+[LEADER_Kevin,Kevin]
+Items = FULLRESTORE,HYPERPOTION,SUPERPOTION
+LoseText = Well done!
+Pokemon = VULPIX,15
+    Form = 1
+    Moves = FROSTBREATH,ATTRACT,DOUBLETEAM,DIG
+    AbilityIndex = 0
+    Gender = female
+    IV = 20,20,20,20,20,20
+    Ball = DIVEBALL
+Pokemon = SNOVER,18
+    Moves = AVALANCHE,BULLETSEED,LIGHTSCREEN,WATERPULSE
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = male
+    IV = 20,20,20,20,20,20
+    Ball = DIVEBALL
+Pokemon = NINETALES,20
+    Form = 1
+    Moves = ICICLESPEAR,TRIPLEAXEL,WEATHERBALL,DAZZLINGGLEAM
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    Gender = female
+    IV = 20,20,20,20,20,20
+    Shiny = true
+    Ball = DIVEBALL
+#-------------------------------
+[BUGCATCHER,Miguel]
+LoseText = Aww, I lost.
+Pokemon = METAPOD,8
+Pokemon = KAKUNA,8
+#-------------------------------
+[BUGCATCHER,Robbie]
+LoseText = Aww, I lost.
+Pokemon = WEEDLE,8
+Pokemon = KAKUNA,8
+#-------------------------------
+[BUGCATCHER,Carlos]
+LoseText = Aww, I lost.
+Pokemon = CUTIEFLY,8
+Pokemon = KAKUNA,8
+#-------------------------------
+[BUGCATCHER,Larry]
+LoseText = ...
+Pokemon = RATTATA,8
+Pokemon = EKANS,8
+#-------------------------------
+[BUGCATCHER,Wade]
+LoseText = Aww, I lost.
+Pokemon = CATERPIE,8
+Pokemon = METAPOD,10
+Pokemon = BUTTERFREE,12
+#-------------------------------
+[RANCHER,Ron]
+LoseText = Aww, I lost.
+Pokemon = MILTANK,11
+Pokemon = TAUROS,11
+    Form = 1
+#-------------------------------
+[LASS,Betsy]
+LoseText = Aww, I lost.
+Pokemon = CUTIEFLY,10
+Pokemon = HERACROSS,12
+#-------------------------------
+[YOUNGSTER,Joey]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,7
+Pokemon = EKANS,7
+#-------------------------------
+[CAMPER,John]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,11
+Pokemon = WHISMUR,13
+#-------------------------------
+[PICNICKER,Nikki]
+LoseText = Defeated! Oh my!
+Pokemon = SKITTY,15
+    Form = 1
+#-------------------------------
+[HIKER,Joe]
+LoseText = You're too good for me!
+Pokemon = MACHOP,16
+#-------------------------------
+[HIKER,Carl]
+LoseText = You're too good for me!
+Pokemon = MACHOP,12
+Pokemon = ARON,12
+#-------------------------------
+[HIKER,Henry]
+LoseText = You're too good for me!
+Pokemon = GEODUDE,16
+#-------------------------------
+[HIKER,Dana]
+LoseText = You're too good for me!
+Pokemon = GEODUDE,12
+Pokemon = GEODUDE,12
+    Form = 1
+#-------------------------------
+[SUPERNERD,Bart]
+LoseText = You're too good for me!
+Pokemon = DITTO,12
+#-------------------------------
+[SUPERNERD,Quentin]
+LoseText = You're too good for me!
+Pokemon = MAGNEMITE,11
+Pokemon = SLOWPOKE,13
+#-------------------------------
+[LASS,Bailey]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[RIVAL_Tom_1,Tom]
+LoseText = Dang, I guess I suck.
+Pokemon = DIFLORA,5
+#-------------------------------
+[RIVAL_Tom_1,Tom,1]
+LoseText = Dang, I guess I suck.
+Pokemon = SAURAVA,5
+#-------------------------------
+[RIVAL_Tom_1,Tom,2]
+LoseText = Dang, I guess I suck.
+Pokemon = FLUIDON,5
+#-------------------------------
+[ALLY_Amy_1,Amy]
+LoseText = Wow! Good job \PN!
+Pokemon = SAURAVA,5
+#-------------------------------
+[ALLY_Amy_1,Amy,1]
+LoseText = Wow! Good job \PN!
+Pokemon = FLUIDON,5
+#-------------------------------
+[ALLY_Amy_1,Amy,2]
+LoseText = Wow! Good job \PN!
+Pokemon = DIFLORA,5
+#-------------------------------
+[ALLY_Garth_1,Garth]
+LoseText = Wow! Good job \PN!
+Pokemon = SAURAVA,5
+#-------------------------------
+[ALLY_Garth_1,Garth,1]
+LoseText = Wow! Good job \PN!
+Pokemon = FLUIDON,5
+#-------------------------------
+[ALLY_Garth_1,Garth,2]
+LoseText = Wow! Good job \PN!
+Pokemon = DIFLORA,5
+#-------------------------------
+[RIVAL_Tom,Tom]
+LoseText = Dang, I guess I suck.
+Pokemon = TRUMBEAK,18
+Pokemon = MAGNEMITE,16
+Pokemon = LECHONK,15
+Pokemon = GROVASAUR,20
+#-------------------------------
+[RIVAL_Tom,Tom,1]
+LoseText = Dang, I guess I suck.
+Pokemon = TRUMBEAK,18
+Pokemon = SCYTHER,16
+Pokemon = WHISMUR,15
+Pokemon = VOLREKS,20
+#-------------------------------
+[RIVAL_Tom,Tom,2]
+LoseText = Dang, I guess I suck.
+Pokemon = TRUMBEAK,18
+Pokemon = LARVITAR,16
+Pokemon = SLAKOTH,15
+Pokemon = FLUDORAN,20

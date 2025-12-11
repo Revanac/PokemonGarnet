@@ -1,0 +1,33 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 3,7,5,8
+StorageCreator = Katie
+WildBattleBGM = SwSh 010 Battle! (Wild Pokémon)
+TrainerBattleBGM = SwSh 024 Battle! (Trainer)
+WildVictoryBGM = SwSh 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = SwSh 025 Victory! (Trainer)
+SurfBGM = HGSS 170 Surf
+BicycleBGM = HGSS 155 Bike
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Garth
+WalkCharset = GTA_Garth
+RunCharset = GTA_Garth_Run
+CycleCharset = GTA_Garth_Bike
+SurfCharset = GTA_Garth_Surf
+DiveCharset = GTA_Garth_Dive
+FishCharset =
+SurfFishCharset =
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Amy
+WalkCharset = GTA_Amy
+RunCharset = GTA_Amy_Run
+CycleCharset = GTA_Amy_Bike
+SurfCharset = GTA_Amy_Surf
+DiveCharset = GTA_Amy_Dive
+FishCharset =
+SurfFishCharset =

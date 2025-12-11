@@ -1,0 +1,5 @@
+Name         = Random Item Giver
+Version      = 1.1
+Essentials   = 21.1            
+Credits      = Rafahbit
+

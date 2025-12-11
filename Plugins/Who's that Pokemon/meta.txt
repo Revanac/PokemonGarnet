@@ -1,0 +1,44 @@
+Name = Who's That Pokemon
+Version = 2.0
+Website = https://www.reliccastle.com/resources/1444/
+Credits = Dr.Doom76
+Essentials = V21.1
+
+
+# Changelog:
+#New Features & Fixes:
+#Tracking & Stats:
+
+#Keeps track of total correct guesses
+#Tracks current correct streak and highest streak
+#Displays all three on the "Who's That Pokémon" screen
+#Milestone Rewards (Optional & Configurable):
+
+#Total Correct Guess Milestones:
+#Customizable in the settings file
+#Set the required correct guesses and rewards at each milestone
+#Can be turned on/off
+#Highest Streak Milestones:
+#Similar settings for streak-based rewards
+#Customization & Settings:
+
+#New settings file for various features
+#Sound Effects:
+#Added sound effects for start, correct answer, and wrong answer
+#Sounds can be changed in the settings
+#Option to toggle sound effects on/off in-game
+#Gameplay Improvements:
+
+#New start menu with options:
+#Play, Explanation, Toggle Sound Effects, Exit
+#Multi-form Pokémon fix:
+#No longer incorrectly marks alternate forms (e.g., Unown) as wrong
+#Generation selection updated:
+#No longer requires a generation argument
+#Defaults to all available generations (customizable in settings)
+#Still supports specific generation selections for NPC-based challenges
+#Code Optimizations & Fixes:
+
+#Removed unnecessary and potentially buggy code
+#Improved logic for smoother gameplay
+#Several minor tweaks for better performance

@@ -1,0 +1,51 @@
+#===============How to use===================================================================
+
+
+Put the random_item_giver.rb file in the Plugins folder of your project.
+
+In game events, you can use the following commands:
+
+# Give 1 common item (default quantity)  
+pbItemCommon  
+
+# Give 1 uncommon item 
+pbItemUncommon 
+
+# Give 1 rare item  
+pbItemRare  
+
+# Give 1 super rare item 
+pbItemSuperRare 
+
+# Give 1 mythical item  
+pbItemMythical  
+
+# Give 1 legendary item  
+pbItemLegendary  
+
+#To deliver more than one random item, simply put the quantity of items in parentheses: 
+pbItemCommon(2)  2 random items from the common list 
+pbItemUncommon(3) 3 random items from the uncommon list
+
+#=========================================================================================
+Customization
+You can edit the list of items and quantities by modifying the ITEM_TIERS constant in the plugin. The format is:
+
+
+:tier_name => [ [array of items], min_quantity, max_quantity ]  
+For example, to add more common items:
+
+
+:common => [ [:POTION, :ANTIDOTE, :AWAKENING, :PARLYZHEAL, :BURNHEAL, :ICEHEAL, :REPEL, :POKEBALL], 1, 5 ] 
+ 
+#===============================Features==========================================================
+
+Distributes random items from different categories
+
+Random quantities within defined limits
+
+Displays a message to the player informing them of what they received
+
+Easy to use in events with simple commands
+
+Easy to customize by adding/removing items

@@ -12,7 +12,7 @@ BattleBack = field
 #-------------------------------
 [003]   # Player's house
 Name = \PN's house
-HealingSpot = 2,8,8
+HealingSpot = 3,6,5
 MapPosition = 0,13,12
 #-------------------------------
 [004]   # Pokémon Lab
@@ -158,7 +158,7 @@ MapPosition = 2,29,56
 #-------------------------------
 [033]   # Your Home
 Name = Player Home
-HealingSpot = 3,7,5
+HealingSpot = 2,8,8
 MapPosition = 2,26,56
 MapSize = 0,
 #-------------------------------
@@ -556,7 +556,9 @@ Name = Koolton Pokemon Center
 MapPosition = 2,35,47
 #-------------------------------
 [108]   # Koolton Mall 3F
+Name = Koolton Mall 3F
 MapPosition = 2,35,47
 #-------------------------------
 [109]   # Koolton Mall 4F
+Name = Koolton Mall 4F
 MapPosition = 2,35,47
